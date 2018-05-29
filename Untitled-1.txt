@@ -1,0 +1,8 @@
+Conforme provimento 39/2014 do CNJ no link https://indisponibilidade.org.br/downloads/provimento_39.pdf
+
+O acesso a Central Nacional de Indisponibilidade de Bens está disponível apenas para Tribunais, Registro de Imóveis, Registro Civil e Tabelião de Notas. 
+
+Caso não seja de nenhuma das instituições acima, é possível realizar a pesquisa para saber se seu CPF ou CNPJ possui ou não indisponibilidade (somente poderá realizar a busca o titular do certificado digital, pois os dados serão extraídos diretamente do certificado digital, não sendo possível realizar buscas em nome de terceiros).
+
+Na página inicial do site www.indisponibilidade.org.br clique em "Pesquisa exclusiva e individual para o titular do Certificado Digital " e se autentique com o uso do certificado digital.
+O acesso ao sistema é apenas com o uso do certificado digital padrão A3, token ou cartão.
